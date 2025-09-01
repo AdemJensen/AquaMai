@@ -89,6 +89,7 @@
   - GameSystem.RemoveEncryption
   - GameSystem.TouchPanelBaudRate
   - GameSystem.OptionLoadFix
+  - GameSystem.SkipBoardNoCheck
   - UX.ServerAnnouncement
   - Tweaks.SkipUserVersionCheck
   - Fancy.Triggers
